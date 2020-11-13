@@ -1,0 +1,35 @@
+.wrapper-main {
+    cursor: pointer;
+    width: 320px;
+    height: 320px;
+    display: flex;
+    border: 2px solid gray;
+    flex-wrap: wrap;
+}
+
+span {
+
+    box-sizing: border-box;
+    display: block;
+    border: 2px solid gainsboro;
+    width: 80px;
+    height: 80px;
+    padding: 20px 20px;
+    font-weight: 400;
+    font-size: 32px;
+
+}
+
+button {
+    margin: 20px 80px;
+    padding: 20px 60px;
+}
+
+.red {
+    background-color: hotpink;
+}
+
+.active {
+    background-color: rgba(119, 116, 66, 0.425);
+    background-color:
+}
